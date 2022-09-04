@@ -3,9 +3,6 @@
 ## SeongJoo Kim
 - Thanks for visiting my profile !
 
-## Now Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bs6q4rajez7zdvrgca5i3cuj5m&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 ## Tech Stack
 &nbsp;&nbsp;&nbsp;&nbsp;![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
