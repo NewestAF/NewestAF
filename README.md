@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Database skills
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Status
 <details>
