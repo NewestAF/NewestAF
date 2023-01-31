@@ -7,8 +7,8 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Languages
 &nbsp;&nbsp;&nbsp;&nbsp;![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Database skills
