@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;💼 Career
-- [📖 POSTECH (2025.02 ~ )](https://www.postech.ac.kr/)
+- [📖 POSTECH Bachelor's course (2025.02 ~ )](https://www.postech.ac.kr/)
 
 
 ## Status
