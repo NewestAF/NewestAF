@@ -1,5 +1,5 @@
-## Hello, I'm NewestAF 👋
-- Thanks for visiting my profile !
+## Hello, I'm Seongjoo Kim 👋
+- CSE & Math (double major) undergrad at POSTECH
 
 ## Tech Stack
 
